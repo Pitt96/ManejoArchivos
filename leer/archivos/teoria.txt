@@ -1,0 +1,17 @@
+--ARCHIVOS TXT
+--ARCHIVOS BINARIOS
+        --pdf
+        --procesar archivos
+
+--ARCHIVOS MULTIMEDIA
+
+
+--NPM
+
+--1. npm init
+--2. Producción:   npm install nombrePaquete
+     Desarrollo:   npm install nombrePaquete --save-dev
+--3. npm install
+--4. npm uninstall nombrePaquete
+--5. npm list
+--6. npm update 
